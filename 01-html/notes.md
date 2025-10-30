@@ -1,6 +1,6 @@
 #  HTML5 基础笔记（Day 1）
 
-## 🗂 目录
+##  目录
 1. [VS Code 常用快捷键](#vs-code-常用快捷键)  
 2. [HTML5 文件声明](#html5-文件声明)  
 3. [HTML5 基本骨架](#html5-基本骨架)  
@@ -148,7 +148,7 @@
 <span>span：无语义，用于 CSS 布局</span>
 ```
 
-> 💡 `em` 和 `strong` 具有语义层次，有助于 SEO 优化。  
+>  `em` 和 `strong` 具有语义层次，有助于 SEO 优化。  
 > `em` 表示轻度强调，`strong` 表示强烈强调。
 
 ---
